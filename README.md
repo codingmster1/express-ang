@@ -2,7 +2,7 @@
 
 ![Screen Shot 2024-12-11 at 2 57 22 PM](https://github.com/user-attachments/assets/608171ed-c154-42d3-be7d-c0782f574025)
 
-*This was built using 'app-gets' to take you to each route with simply clicking the selected buttons.
+*This was built using 'app-gets' to take you to each route with simply clicking the selected buttons.*
 
 ![Screen Shot 2024-12-11 at 3 07 19 PM](https://github.com/user-attachments/assets/1cb048e5-870d-422f-b816-cbf44440e06e)
 
